@@ -19,7 +19,7 @@ Olá pessoal! Soua Jennifer, fiz este Lab para que possam conhecer o mundo das I
 
 
 ## 📒 Descrição
-Projeto simples e rápido de avatar virtual utilizando voz pessoal
+Projeto simples e rápido de avatar virtual utilizando voz pessoal.
 
 ## 🤖 Tecnologias Utilizadas
 Foram utilizadas as Tecnologias:
@@ -27,13 +27,13 @@ ElevenLabs para gravação de voz.
 HeyGen para avatar virtual com minha própria voz
 
 ## 🧐 Processo de Criação
-Vídeo breve do vídeo como conclusão do Módulo de IAs Generativas e Ferramentas utilizadas.
+Vídeo breve de Avatar Virtual como conclusão do Módulo de IAs Generativas e Ferramentas utilizadas.
 
-## 🚀 Resultados
-Vídeo de 30 segundos, com realismo e fácil de fazer.
+## Vídeo de Resultado
+ [AVATAR VIRTUAL](https://www.instagram.com/p/C9a7MzrOvB5/)
 
 ## 💭 Reflexão (Opcional)
-Desafio super fácil, o díficil é ter as ferramentas pagas para utilizar a vontade.
+Desafio super fácil e divertido de fazer.
 ```
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+
 
